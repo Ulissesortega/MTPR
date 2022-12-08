@@ -1,0 +1,32 @@
+body{
+  background-image: url(../assets/bgtexture.jpg);
+}
+
+.NavBarFont{
+  font-family: 'Fugaz One', 'Regular';
+  font-weight: bold;
+  font-size: 20PX;
+  color: #5F002B;
+}
+
+.whiteBG{
+  background-color: white;
+}
+
+.textmuzzles{
+  font-family: 'Fugaz One', 'Regular';
+  font-size: 50PX;
+  color: #5F002B;
+  font-weight: bold;
+}
+
+.textfont{
+  font-family: 'Montauk', 'Regular';
+  font-size: 22;
+  color: #5F002B;
+}
+
+.imageborder{
+  border: 10px solid white;
+
+}
